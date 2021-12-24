@@ -1,0 +1,204 @@
+body {
+    min-width: 1300px;
+}
+
+*{
+    text-align: center;
+}
+
+.cont {
+	width: 70%;
+	margin-left: 190px;
+	margin-top: -8px;
+    padding-bottom: 20px;
+}
+
+.cont, .cont p, .cont ul, .cont li, a {
+	background-color: #b49b7f;
+}
+
+.navBar{
+    margin-top: 30px;
+    padding: 0 60px 0 100px;
+}
+
+.navBar li {
+    list-style-type: none;
+    display: inline;
+}
+
+#logo{
+	width: 8%;
+	height: 8%;
+	border-radius: 50%;
+	margin-top: 50px;
+}
+
+#logo:hover{
+	cursor: pointer;
+}
+
+#name{
+	color:white;
+	font-family: 'Baloo Bhaijaan 2', serif, cursive;
+	font-size: 20px;
+}
+
+.navBar {
+	margin-top: 30px;
+}
+
+li a {
+	text-decoration: none;
+	padding: 0 60px 0 30px;
+	font-size: 16px;
+	font-family: 'Baloo Bhaijaan 2', serif, cursive;
+	color: white;
+}
+a:hover {
+	color: rgb(37, 16, 48);
+}
+
+.plan1 {
+    width: 70%;
+    margin-left: 190px;
+    height: 120px;
+    background-color: #b49b7f;
+}
+
+.plan1 h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 10px;
+    color: rgb(177, 102, 41);
+}
+
+.plan1 p {
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: rgb(163, 96, 42);
+}
+
+
+.about_day1 {
+    margin-left: 190px;
+    margin-top: 0;
+}
+
+.about_day1 h2 {
+    margin: 0 200px -19.5px 0;
+    padding: 15px 0 15px 0;
+    background-color: #b49b7f;
+}
+
+.plan_day1 {
+    padding-top: 20px;
+}
+
+table {
+    margin-left: 190px;
+    width: 70%;
+    border: 1px solid grey;
+    border-spacing: 7px 13px; 
+}
+
+table td {
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.carousel-inner {
+    margin: 0, 400px;
+    height: 300px;
+}
+
+#carouselExampleIndicators {
+    width: 70%;
+    margin-left: 190px;
+}
+
+.about_day2 h2 {
+    margin: 0 200px 0 190px;
+    padding: 15px 0 15px 0;
+    background-color: #b49b7f;
+}
+
+#day1:hover {
+    cursor: pointer;
+    color: tomato;
+}
+
+.otherDays {
+    background-color: #b49b7f;
+    width: 70%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-left: 190px;
+}
+
+#access {
+    width: 150px;
+    border-radius: 3px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#open {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: rgb(175, 29, 3);
+}
+
+.mb-3 {
+    width: 40%;
+    margin-left: 380px;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.button {
+    padding-top: 20px;
+    margin: 0 190px 0 190px;
+}
+
+#access {
+    border: 1px solid rgb(179, 84, 84);
+    margin-bottom: 50px;
+}
+
+.footer {
+	margin: -3px 200px 0 200px;
+	background-color: #b49b7f;
+	padding-top: 20px;
+}
+
+.con {
+	margin: 50px;
+}
+
+#link {
+    text-decoration: none;
+    font-family: 'Baloo Bhaijaan 2', serif, cursive;
+    color: white;
+    margin: 80px;
+}
+
+#linkNum {
+    text-decoration: none;
+    color: white;
+    font-family: 'Baloo Bhaijaan 2', serif, cursive;
+    margin: 30px;
+}
+
+.num {
+	margin: 10px;
+	padding: 10px;
+	background-color: #b49b7f;
+}
+
+.last {
+	background-color: #b49b7f;
+    font-family: 'Baloo Bhaijaan 2', serif, cursive;
+}

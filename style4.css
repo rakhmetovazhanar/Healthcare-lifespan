@@ -1,0 +1,149 @@
+* {
+    text-align: center;
+}
+
+body {
+	min-width: 1300px;
+}
+
+.cont {
+	width: 69.9%;
+	margin-left: 200px;
+	margin-top: -8px;
+    padding-bottom: 0;
+}
+
+.cont, .cont p, ul, li, a{
+	background-color: #b49b7f;
+}
+
+#logo{
+	width: 8%;
+	height: 8%;
+	border-radius: 50%;
+	margin-top: 50px;
+}
+
+#logo:hover{
+	cursor: pointer;
+}
+
+#name{
+	color:white;
+	font-family: 'Baloo Bhaijaan 2', serif, cursive;
+	font-size: 20px;
+}
+
+.navBar {
+	margin-top: 30px;
+	background-color: #b49b7f;
+	padding: 5px 60px 0 110px;
+}
+
+#link {
+	text-decoration: none;
+	padding: 0 60px 0 30px;
+	font-size: 16px;
+	font-family: 'Baloo Bhaijaan 2', serif, cursive;
+	color: white;
+}
+
+#link:hover {
+	color: rgb(37, 16, 48);
+}
+
+
+#li1{
+	list-style-type: none;
+	display: inline;
+}
+
+#line {
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+
+#eco {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(219, 95, 73);
+    background-color: #b49b7f;
+}
+
+#img1 {
+    width: 25%;
+	background-color: #b49b7f;
+}
+
+.aboutMarket{
+    float: left;
+    background-color: #b49b7f;
+}
+
+.products {
+	padding: 10px;
+	background-color: #b49b7f;
+}
+
+.aboutMarket p {
+	font-size: 15px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card1 {
+	display: inline-block;
+	margin: 50px;
+}
+
+.card-body {
+	background-color: white;
+}
+
+.card-body p {
+	background-color: thistle;
+}
+
+.card2 {
+	display: inline-block;
+	margin: 50px;
+}
+
+.card {
+	display: inline-block;
+	margin: 50px;
+}
+
+.card3 {
+	display: inline-block;
+	margin: 50px;
+}
+
+.footer {
+	margin: -20px 190px 0 200px;
+	background-color: #b49b7f;
+	padding-top: 20px;
+}
+
+.con {
+	margin: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+.num {
+	margin: 10px;
+	padding: 10px;
+	background-color: #b49b7f;
+}
+
+#num1 {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.last {
+	background-color: #b49b7f;
+}
+
+
+

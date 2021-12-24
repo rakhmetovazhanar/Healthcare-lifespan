@@ -1,0 +1,200 @@
+* {
+    text-align: center;
+}
+
+body {
+	min-width: 1300px;
+}
+
+.cont {
+	width: 69.9%;
+	margin-left: 200px;
+	margin-top: -8px;
+    padding-bottom: 0;
+}
+
+.cont, .cont p, .cont ul, .cont li, a {
+	background-color: #b49b7f;
+}
+
+.navBar li {
+    list-style-type: none;
+    display: inline;
+}
+
+#logo{
+	width: 8%;
+	height: 8%;
+	border-radius: 50%;
+	margin-top: 50px;
+}
+
+#logo:hover{
+	cursor: pointer;
+}
+
+#name{
+	color:white;
+	font-family: 'Baloo Bhaijaan 2', serif, cursive;
+	font-size: 20px;
+}
+
+.navBar {
+	margin-top: 30px;
+    padding: 0 60px 0 100px;
+}
+
+li a {
+	text-decoration: none;
+	padding: 0 60px 0 30px;
+	font-size: 16px;
+	font-family: 'Baloo Bhaijaan 2', serif, cursive;
+	color: white;
+}
+a:hover {
+	color: rgb(37, 16, 48);
+}
+
+.plan3 {
+    background-color: #b49b7f;
+}
+
+.plan3 h2, b {
+    background-color: #b49b7f;
+}
+
+.plan3 h2 {
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    color: rgb(177, 102, 41);
+}
+
+.about_day1 h2 {
+    padding: 10px;
+    background-color: #b49b7f;
+    font-size: 35px;
+    color: rgb(39, 99, 14);;
+}
+
+.about_day1 h2:hover {
+    cursor: pointer;
+    color: tomato;
+}
+
+.about_day2 h2:hover {
+    cursor: pointer;
+    color: tomato;
+}
+
+.about_day2 h2 {
+    padding: 10px;
+    background-color: #b49b7f;
+    font-size: 35px;
+    color: rgb(39, 99, 14);;
+}
+
+h3 {
+    background-color: #b49b7f;
+    font-size: 20px;
+    font-weight: 550;
+    font-family: cursive;
+}
+
+.plan_day1 {
+    background-color: #b49b7f;
+}
+
+.plan3 p {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+    color: rgb(163, 96, 42);
+}
+
+.plan_day1 p {
+    padding-top: 15px;
+    color: rgb(163, 96, 42);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#image {
+    width: 100%;
+    height: 80%;
+}
+
+.about_day2 h2 {
+    background-color: #b49b7f;
+}
+
+.otherDays {
+    background-color: #b49b7f;
+    width: 70%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-left: 190px;
+}
+
+.otherDays p {
+    margin-right: 90px;
+    margin-bottom: 0;
+}
+
+#access {
+    width: 150px;
+    border-radius: 3px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#open {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: rgb(175, 29, 3);
+}
+
+.mb-3 {
+    width: 55%;
+    margin-left: 220px;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.button {
+    padding-top: 20px;
+}
+
+#access {
+    border: 1px solid rgb(179, 84, 84);
+    margin-bottom: 50px;
+}
+
+.footer {
+	margin: -20px 190px 0 200px;
+	background-color: #b49b7f;
+	padding-top: 20px;
+}
+
+.con {
+	margin: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+.num {
+	margin: 10px;
+	padding: 10px;
+	background-color: #b49b7f;
+}
+
+#num1 {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.last {
+	background-color: #b49b7f;
+}
