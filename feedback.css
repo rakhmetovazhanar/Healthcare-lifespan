@@ -1,0 +1,141 @@
+.bod{
+	background-color: #d1bea9;
+	text-align: center;
+	overflow-x: hidden;
+	color: white;
+	text-decoration: none;
+}
+.conta, #namee{
+	width: 76%;
+	max-width: 100%;	
+	margin-left: 12%;
+	margin-right: 15%;
+	margin-top: -7px;
+	background-color: #b49b7f;
+}
+a,ul, li{
+	display: flex;
+	width: 90%;
+	background-color: #b49b7f;
+	list-style: none;
+	justify-content:  space-between;
+	font-size: 17px;
+	margin-left: 2%;
+	margin-right: 1%;
+    color: white;
+    text-decoration: none;
+}
+.h{
+	margin-left: 3%;
+}
+.form-control{
+	margin-left: 20%;
+	align-items: center;
+    margin-bottom: 1%;
+}
+#hed{
+	margin-top: 3%;
+	margin-bottom: 2%;
+}
+.btn{
+	border-radius: 10px;
+	width: 90%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+img{
+	margin: 10px;
+	width: 40%;
+	
+}
+
+tr, th{
+padding-top: 3%;
+font-weight: normal;
+font-size: 17px;
+border-color: #b49b7f;
+/*font-family:Arial, Helvetica, sans-serif*/
+}
+table{
+	border-color: #b49b7f;
+}
+#logg{
+	width: 6%;
+	border-radius: 50%;
+}
+span{
+	font-weight: bolder;
+}
+#namee{
+	color:white;
+	font-family: 'Baloo Bhaijaan 2', cursive;
+	font-size: 22px;
+	margin-top: 10px;
+}
+.navss{
+	margin-left: 0%;
+	width: 100%;
+	/*padding: 20px;*/
+	background-color: #b49b7f;
+}
+.navBar{
+	display: inline-flex;
+	margin-left: 5%;
+	/*padding-left: -10%;*/
+	width: 100%;
+	margin-top: 2%;
+}
+a:hover{
+	color: #885243;
+}
+.imm{
+	display: inline;
+	width:90px;
+	margin-left: 25%;
+	margin-top: 15%;
+}
+.pp{
+    margin-left: -80%;
+    margin-top: 0%;
+}
+.card{
+	width: 60%;
+    height: 5%;
+	margin-left: 20%;
+	padding-bottom:  2%;
+	text-align: center;
+	/*background-color: #b49b7f;*/
+	border-color: #b49b7f;
+}
+.parag{
+	margin-left: 50%;
+	margin-right: 5%;
+	width: 50%;
+}
+h5{
+	margin-left: 50%;
+	color: #885243;
+}
+
+@media(max-width: 600px){
+	a, ul, li{
+		font-size: 12px;
+	}
+	#namee{
+        font-size: 19px;
+	}
+	.pp{
+       font-size: 8px;
+	}
+	#hed{
+		font-size: 18px;
+	}
+	.nam{
+		font-size: 3px;
+	}
+	.imm{
+		width: 60px;
+	}
+
+}
